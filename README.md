@@ -21,16 +21,27 @@ https://github.com/user-attachments/assets/fd535b2f-8603-4c38-9f1c-753624efe0ef
 
 
 
-Screenshots
-Light Mode
+# Screenshots
+
+
+# Light Mode
 
 
 ![Simulator Screenshot - iPhone 12 - 2024-07-13 at 17 51 47](https://github.com/user-attachments/assets/85818201-bf1d-4615-99a7-a210851609ba)
 
 
-Dark Mode
+# Dark Mode
 
 ![Simulator Screenshot - iPhone 12 - 2024-07-13 at 17 44 07](https://github.com/user-attachments/assets/67458a2d-6371-492c-9bb6-f3d6bd6415eb)
+
+
+
 ![Simulator Screenshot - iPhone 12 - 2024-07-13 at 17 43 53](https://github.com/user-attachments/assets/efb0b093-31ef-4775-84db-f1d8ba53bd05)
+
+
+
 ![Simulator Screenshot - iPhone 12 - 2024-07-13 at 17 43 29](https://github.com/user-attachments/assets/8efab28a-4fab-441d-b5a6-1b06762fcbd7)
+
+
+
 ![Simulator Screenshot - iPhone 12 - 2024-07-13 at 17 43 24](https://github.com/user-attachments/assets/08cfbcf1-eec3-4cca-b4ac-f4930daf4154)
