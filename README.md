@@ -14,8 +14,7 @@ Edit Tasks: Check and delete when task is done.
 Delete Tasks: Remove tasks that you no longer need.
 Dark Mode: Switch between light and dark mode for a more comfortable viewing experience.
 
-Screen Recording: Record your screen to demonstrate how to use the app or to keep track of your progress.
-
+# Screen Recording: 
 
 https://github.com/user-attachments/assets/fd535b2f-8603-4c38-9f1c-753624efe0ef
 
